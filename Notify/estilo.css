@@ -1,6 +1,6 @@
 header{
 	background:url("img/header.png") ;
-	height: 664px;
+	height: 661px;
 	background-repeat: no-repeat;
 	background-size: cover;
 
@@ -17,7 +17,7 @@ hr{
     padding: 32px;
 }
  .cell{
-    margin: -22% 53% 0%;
+    margin: -24% 53% 0%;
     float: left;
  }
  .theme{
@@ -61,12 +61,67 @@ hr{
   float:left;
 }
 .boton:hover{
-  opacity: 0.50;
-  -moz-opacity: .50;
-  filter:alpha (opacity=50);
+  opacity: 1;
+  -moz-opacity: .200;
+  filter:alpha (opacity=0);
+  background: #00f467;
 }
 .boton a{
   color:#fff;
   text-decoration:none;
   padding:5px 5px 5px 0;
 }	
+.servicios1{
+  margin: 45% 50% 15%;
+  float: right;
+}
+.row {
+  display: -ms-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: nowrap;
+  margin-right: 16px;
+  margin-left: 141px;
+  width: 1%;
+}
+.servicios2{
+  margin: 45% 200% 0%;
+  float: none;
+}
+.servicios3{
+  margin: 38% 394% 25%;
+  float: left;
+}
+.sub1{
+  margin: 0% -79% 53%;
+  letter-spacing: 0px;
+  text-align: left;
+  padding: 6%;
+
+}
+.sub2{
+  margin: 29% -222% 53%;
+  letter-spacing: 0px;
+  text-align: right;
+  padding: 0%;
+}
+.sub3{
+  margin: 39% -444% 54%;
+  letter-spacing: 0px;
+  text-align: right;
+  padding: 0%;
+}
+.lo{
+  color: #b3b3b3;
+}
+.para1{
+  margin: -26% -123% 0%;
+  text-align: center;
+  float: left;
+}
+.para2{
+  margin: 1% 1% 0%;
+}
+.para3{
+  margin: 1% 1% 0%;
+}  
