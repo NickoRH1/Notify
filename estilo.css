@@ -1,0 +1,167 @@
+header{
+	background:url("img/header.png") ;
+	height: 653px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	}
+hr{
+  height: 5px;
+  background-color: #2ecc71;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+ }
+.notify{
+ 	margin: 193px 206px 0px;
+  padding: 32px;
+}
+.cell{
+  margin: -20% 53% 0%;
+    
+ }
+.theme{
+ 	color: white;
+ 	margin: 0% 17% 0%;
+  font-size: 121%;
+  letter-spacing: 1px;
+ }
+ .theme1{
+ 	color: white;
+ 	margin: 0% 17% 0%;
+  font-size: 121%;
+  letter-spacing: 1px;
+}
+.fab {
+  font-family: "Font Awesome 5 Brands";
+  color: white;
+  margin: right;
+}
+.apple{
+	margin: 1% 16% 1%;
+}
+.android{
+	margin: 1% 1% 1%;
+}
+.windows{
+	margin: 1% 1% 1%
+}
+.boton{
+  width:53px;
+  height:53px;
+  background-color: #00000070;
+  margin: 10px;
+  padding:13px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 100px;
+  font-size:28px;
+  line-height:0px;
+  text-transform: uppercase;
+  float:left;
+}
+.boton:hover{
+  opacity: 1;
+  -moz-opacity: .200;
+  filter:alpha (opacity=0);
+  background: #00f467;
+}
+.boton a{
+  color:#fff;
+  text-decoration:none;
+  padding:5px 5px 5px 0;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+article {
+  margin-bottom: 73px;
+}
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.article p {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  color: #848484;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.h2, h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+}
+.article .wrapper-img {
+  width: 50%;
+  height: 147px;
+  margin: 27px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gris{
+  background: #e3e3e3;
+  height: 500px
+}
+h3{
+  font-size: 27px;
+  text-align: left;
+  margin-bottom: 2.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 5.2;
+  color: inherit;
+}
+.para{
+  margin: -5% 49% 0%;
+  text-align: left;
+  float: left;
+  margin-left: auto;
+  color: #a1a1a1;
+}
+.video{
+  margin: -15% -5% 0%;
+  float: right;
+  font-size: 0%;
+}
+form{
+  position: relative;
+}  
+}
+.mail{
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 19px;
+  height: 41px;
+  padding: 1px 38px;
+  font-size: 17px;
+  color: #fff6f6;
+  width: 24%;
+  margin-top: 9px;
+}
+button{
+  background: #2ecc71;
+  color: #fff;
+  position: absolute;
+  right: 745px;
+  top: 60px;
+  height: 49%;
+  border: 0px;
+  width: 9%;
+}  
